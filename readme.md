@@ -27,3 +27,9 @@ Demonstrates string manipulation functions like .title() and .strip().
 ## 004 - Numbers
 
 The results of expressions are printed, using both integers and floats.
+
+---
+
+## 005 - Type Conversion
+
+Uses str() to concatenate numbers into strings.
