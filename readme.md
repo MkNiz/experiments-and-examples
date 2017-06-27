@@ -35,3 +35,9 @@ The results of expressions are printed, using both integers and floats.
 ## 005 - Type Conversion
 
 Uses str() to concatenate numbers into strings.
+
+---
+
+# 006 - List
+
+Manipulates a list by adding and removing values by different methods.
