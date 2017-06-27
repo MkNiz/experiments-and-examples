@@ -47,3 +47,9 @@ Manipulates a list by adding and removing values by different methods.
 ## 007 - List Sorting
 
 Sorts lists both permanently and temporarily, and also gets a list's length
+
+---
+
+## 008 - List Iteration
+
+Uses for loops to iterate over items, and enumerate() to alter iterated items by their index.
