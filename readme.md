@@ -9,3 +9,9 @@ Python knowledge and tackle new concepts and ideas.
 
 One of the most basic possible Python programs - printing "Hello, World!" to
 the console.
+
+---
+
+## 002 - Variable Printer
+
+Stores string and integer values into variables, then prints them.
