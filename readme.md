@@ -15,3 +15,9 @@ the console.
 ## 002 - Variable Printer
 
 Stores string and integer values into variables, then prints them.
+
+---
+
+## 003 - String Manipulation
+
+Demonstrates string manipulation functions like .title() and .strip().
