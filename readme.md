@@ -38,6 +38,12 @@ Uses str() to concatenate numbers into strings.
 
 ---
 
-# 006 - List
+## 006 - List
 
 Manipulates a list by adding and removing values by different methods.
+
+---
+
+## 007 - List Sorting
+
+Sorts lists both permanently and temporarily, and also gets a list's length
