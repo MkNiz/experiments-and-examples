@@ -8,7 +8,7 @@ my_list = list(range(1,9))
 print(my_list)
 print("---")
 
-print("Creating a list that skips every 4th number:")
+print("Creating a list by skipping 4 steps in a range:")
 my_list_2 = list(range(1,16,4))
 print(my_list_2)
 print("---")
