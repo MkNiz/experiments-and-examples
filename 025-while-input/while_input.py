@@ -41,7 +41,7 @@ while running:
         if dog['agitation'] >= 30:
             print("Unfortunately, " + name + " was decimated by your affections.")
             print("")
-            running = False
+            break
         elif dog['agitation'] > 20:
             print(dog['name'].title() + " looks dangerously agitated.")
             print("")
