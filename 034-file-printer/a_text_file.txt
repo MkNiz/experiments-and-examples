@@ -1,0 +1,5 @@
+The script is
+reading a
+text file
+that exists
+in the same folder

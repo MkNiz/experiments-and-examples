@@ -1,0 +1,4 @@
+This, on the other hand,
+is a text file that is within
+a subdirectory of the directory
+where the script is stored.
